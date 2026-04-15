@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Mohammed-Sarraj.github.io/sitemap.xml
